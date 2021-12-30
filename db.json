@@ -294,15 +294,18 @@
                     "contact-list": [
                         {
                             "id": 34,
-                            "address": "123 Business Centre <br> London SW1A 1AA"
+                            "name": "address",
+                            "info": "123 Business Centre <br/> London SW1A 1AA"
                         },
                         {
                             "id": 35,
-                            "phone": "0123456789"
+                            "name": "phone",
+                            "info": "0123456789"
                         },
                         {
                             "id": 36,
-                            "mail": "mail@domain.com"
+                            "name": "mail",
+                            "info": "mail@domain.com"
                         }
                     ]
                 },
