@@ -248,6 +248,7 @@
             "id": 25,
             "logo": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/logo_wqitvd.png",
             "btn-text": "Signup",
+            "icon-toogle": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761961/samples/code-dot/nav-icon_wznybd.png",
             "btn-direction": "#",
             "nav": [
                 {
