@@ -1,342 +1,342 @@
 {
-    "hero": [
+  "hero": [
+    {
+      "id": 0,
+      "btn-text": "Learn More",
+      "btn-direction": "#services",
+      "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761961/samples/code-dot/header_qarugn.png",
+      "title": "Beautifully simple, code.",
+      "subtitle": "Multipurpose landing template",
+      "excerpt": "Codelander is a beautifully simple, clean and lightweight landing page template for all types of businesses, with bold and bright colours."
+    }
+  ],
+  "strategy": [
+    {
+      "id": 1,
+      "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761962/samples/code-dot/strategy-1_eiaelp.png",
+      "title": "Strategy",
+      "excerpt": "We'll work with you to develop the right strategy"
+    },
+    {
+      "id": 2,
+      "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761962/samples/code-dot/strategy-2_cqspdu.png",
+      "title": "Automation",
+      "excerpt": "Work synchronization and automated services"
+    },
+    {
+      "id": 3,
+      "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761962/samples/code-dot/strategy-3_njwktv.png",
+      "title": "Deployment",
+      "excerpt": "Dedicated servers to deploy and test applications"
+    },
+    {
+      "id": 4,
+      "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761963/samples/code-dot/strategy-4_htzlsi.png",
+      "title": "Education",
+      "excerpt": "Stay informed on all our tools and technologies"
+    }
+  ],
+  "services": [
+    {
+      "id": 5,
+      "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761961/samples/code-dot/services-header_wka5gn.png",
+      "title": "Solving Problems",
+      "subtitle": "Our services",
+      "excerpt": "This is a great section to introduce your company and showcase your featured services.",
+      "accordion": [
         {
-            "id": 0,
-            "btn-text": "Learn More",
-            "btn-direction": "#services",
-            "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761961/samples/code-dot/header_qarugn.png",
-            "title": "Beautifully simple, code.",
-            "subtitle": "Multipurpose landing template",
-            "excerpt": "Codelander is a beautifully simple, clean and lightweight landing page template for all types of businesses, with bold and bright colours."
-        }
-    ],
-    "strategy": [
-        {
-            "id": 1,
-            "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761962/samples/code-dot/strategy-1_eiaelp.png",
-            "title": "Strategy",
-            "excerpt": "We'll work with you to develop the right strategy"
+          "id": 6,
+          "title": "Website Design",
+          "content": "Some information on your web design and development services can go here. A few lines should do the trick."
         },
         {
-            "id": 2,
-            "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761962/samples/code-dot/strategy-2_cqspdu.png",
-            "title": "Automation",
-            "excerpt": "Work synchronization and automated services"
+          "id": 7,
+          "title": "Application Development",
+          "content": "More information on your application development services can go here, too. There's plenty of space available for you."
+        }
+      ]
+    }
+  ],
+  "services-sale": [
+    {
+      "id": 8,
+      "btn-text": "View Pricing",
+      "btn-direction": "#pricing",
+      "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761962/samples/code-dot/services-sales-header_wo9x9v.png",
+      "title": "Sales Growth",
+      "subtitle": "Our services",
+      "excerpt": "You can talk about your secondary services here, or maybe promote your excellent customer service approach. Always grab your website visitors' attention."
+    }
+  ],
+  "pricing": [
+    {
+      "id": 9,
+      "title": "Pricing",
+      "excerpt": "Offer multiple packages or monthly subscriptions? Why not showcase your featured price plans here, bold and beautifully..",
+      "cards": [
+        {
+          "id": 10,
+          "price": 199,
+          "period": "Basic",
+          "excerpt": "Starter plan with all the basics included",
+          "popular": false,
+          "btn-text": "Enquire",
+          "btn-direction": "#contact",
+          "list-info": [
+            {
+              "title": "Core Business System",
+              "is-check": true,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
+            },
+            {
+              "title": "Team Management",
+              "is-check": true,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
+            },
+            {
+              "title": "Dual Infrastructure",
+              "is-check": false,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761963/samples/code-dot/uncheck-icon_hebzc2.png"
+            },
+            {
+              "title": "Customized Features",
+              "is-check": false,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761963/samples/code-dot/uncheck-icon_hebzc2.png"
+            }
+          ]
         },
         {
-            "id": 3,
-            "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761962/samples/code-dot/strategy-3_njwktv.png",
-            "title": "Deployment",
-            "excerpt": "Dedicated servers to deploy and test applications"
+          "id": 11,
+          "price": 499,
+          "period": "Growth",
+          "excerpt": "The sensible option for growing companies",
+          "popular": true,
+          "btn-text": "Enquire",
+          "btn-direction": "#contact",
+          "list-info": [
+            {
+              "title": "Core Business System",
+              "is-check": true,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
+            },
+            {
+              "title": "Team Management",
+              "is-check": true,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
+            },
+            {
+              "title": "Dual Infrastructure",
+              "is-check": true,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
+            },
+            {
+              "title": "Customized Features",
+              "is-check": false,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761963/samples/code-dot/uncheck-icon_hebzc2.png"
+            }
+          ]
         },
         {
-            "id": 4,
-            "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761963/samples/code-dot/strategy-4_htzlsi.png",
-            "title": "Education",
-            "excerpt": "Stay informed on all our tools and technologies"
+          "id": 12,
+          "price": 1299,
+          "period": "Corporate",
+          "excerpt": "Everything a global company needs",
+          "popular": false,
+          "btn-text": "Enquire",
+          "btn-direction": "#contact",
+          "list-info": [
+            {
+              "title": "Core Business System",
+              "is-check": true,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
+            },
+            {
+              "title": "Team Management",
+              "is-check": true,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
+            },
+            {
+              "title": "Dual Infrastructure",
+              "is-check": true,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
+            },
+            {
+              "title": "Customized Features",
+              "is-check": true,
+              "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
+            }
+          ]
         }
-    ],
-    "services": [
+      ]
+    }
+  ],
+  "clients": [
+    {
+      "id": 13,
+      "title": "Client Showcase",
+      "subtitle": "Our clients",
+      "slider": [
         {
-            "id": 5,
-            "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761961/samples/code-dot/services-header_wka5gn.png",
-            "title": "Solving Problems",
-            "subtitle": "Our services",
-            "excerpt": "This is a great section to introduce your company and showcase your featured services.",
-            "accordion": [
-                {
-                    "id": 6,
-                    "title": "Website Design",
-                    "content": "Some information on your web design and development services can go here. A few lines should do the trick."
-                },
-                {
-                    "id": 7,
-                    "title": "Application Development",
-                    "content": "More information on your application development services can go here, too. There's plenty of space available for you."
-                }
-            ]
-        }
-    ],
-    "services-sale": [
+          "id": 14,
+          "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761962/samples/code-dot/logo4_s8mjii.png"
+        },
         {
-            "id": 8,
-            "btn-text": "View Pricing",
-            "btn-direction": "#pricing",
-            "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761962/samples/code-dot/services-sales-header_wo9x9v.png",
-            "title": "Sales Growth",
-            "subtitle": "Our services",
-            "excerpt": "You can talk about your secondary services here, or maybe promote your excellent customer service approach. Always grab your website visitors' attention."
-        }
-    ],
-    "pricing": [
+          "id": 16,
+          "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761961/samples/code-dot/logo3_aswbly.png"
+        },
         {
-            "id": 9,
-            "title": "Pricing",
-            "excerpt": "Offer multiple packages or monthly subscriptions? Why not showcase your featured price plans here, bold and beautifully..",
-            "cards": [
-                {
-                    "id": 10,
-                    "price": 199,
-                    "period": "Basic",
-                    "excerpt": "Starter plan with all the basics included",
-                    "popular": false,
-                    "btn-text": "Enquire",
-                    "btn-direction": "#contact",
-                    "list-info": [
-                        {
-                            "title": "Core Business System",
-                            "is-check": true,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
-                        },
-                        {
-                            "title": "Team Management",
-                            "is-check": true,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
-                        },
-                        {
-                            "title": "Dual Infrastructure",
-                            "is-check": false,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761963/samples/code-dot/uncheck-icon_hebzc2.png"
-                        },
-                        {
-                            "title": "Customized Features",
-                            "is-check": false,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761963/samples/code-dot/uncheck-icon_hebzc2.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 11,
-                    "price": 499,
-                    "period": "Growth",
-                    "excerpt": "The sensible option for growing companies",
-                    "popular": true,
-                    "btn-text": "Enquire",
-                    "btn-direction": "#contact",
-                    "list-info": [
-                        {
-                            "title": "Core Business System",
-                            "is-check": true,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
-                        },
-                        {
-                            "title": "Team Management",
-                            "is-check": true,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
-                        },
-                        {
-                            "title": "Dual Infrastructure",
-                            "is-check": true,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
-                        },
-                        {
-                            "title": "Customized Features",
-                            "is-check": false,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761963/samples/code-dot/uncheck-icon_hebzc2.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 12,
-                    "price": 1299,
-                    "period": "Corporate",
-                    "excerpt": "Everything a global company needs",
-                    "popular": false,
-                    "btn-text": "Enquire",
-                    "btn-direction": "#contact",
-                    "list-info": [
-                        {
-                            "title": "Core Business System",
-                            "is-check": true,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
-                        },
-                        {
-                            "title": "Team Management",
-                            "is-check": true,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
-                        },
-                        {
-                            "title": "Dual Infrastructure",
-                            "is-check": true,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
-                        },
-                        {
-                            "title": "Customized Features",
-                            "is-check": true,
-                            "icon": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/check-icon_oe7jzf.png"
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "clients": [
+          "id": 17,
+          "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/logo2_pfvgrj.png"
+        },
         {
-            "id": 13,
-            "title": "Client Showcase",
-            "subtitle": "Our clients",
-            "slider": [
-                {
-                    "id": 14,
-                    "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761962/samples/code-dot/logo4_s8mjii.png"
-                },
-                {
-                    "id": 16,
-                    "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761961/samples/code-dot/logo3_aswbly.png"
-                },
-                {
-                    "id": 17,
-                    "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/logo2_pfvgrj.png"
-                },
-                {
-                    "id": 18,
-                    "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/logo1_ia9et2.png"
-                },
-                {
-                    "id": 19,
-                    "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761961/samples/code-dot/logo3_aswbly.png"
-                }
-            ]
-        }
-    ],
-    "news": [
+          "id": 18,
+          "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/logo1_ia9et2.png"
+        },
         {
-            "id": 20,
-            "title": "Featured Stories",
-            "subtitle": "Recent updates",
-            "posts": [
-                {
-                    "id": 21,
-                    "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/blog-card-1_h2s2kz.png",
-                    "title": "Remote Working",
-                    "subtitle": "Making it easier to connect with every client worldwide",
-                    "btn-text": "Read More",
-                    "special": false
-                },
-                {
-                    "id": 22,
-                    "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/blog-card-2_ccbtdi.png",
-                    "title": "Google Rankings",
-                    "subtitle": "We've ranked number one on Google for multiple keywords. Read about our SEO strategies",
-                    "btn-text": "Read More",
-                    "special": true
-                },
-                {
-                    "id": 23,
-                    "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/blog-card-2_ccbtdi.png",
-                    "title": "Communication",
-                    "subtitle": "We've made our client support services easy to access",
-                    "btn-text": "Read More",
-                    "special": false
-                }
-            ]
+          "id": 19,
+          "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761961/samples/code-dot/logo3_aswbly.png"
         }
-    ],
-    "contact": [
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": 20,
+      "title": "Featured Stories",
+      "subtitle": "Recent updates",
+      "posts": [
         {
-            "id": 24,
-            "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/contact-header-img_x5frtl.png",
-            "title": "Questions? <br /> Get in touch",
-            "subtitle": "Contact",
-            "excerpt": "We'll be happy to help answer any of your questions. Send us an email and we'll get back to you shortly.",
-            "btn-text": "Send an Email",
-            "emain-receiver": "name@domain.com"
-        }
-    ],
-    "navbar": [
+          "id": 21,
+          "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/blog-card-1_h2s2kz.png",
+          "title": "Remote Working",
+          "subtitle": "Making it easier to connect with every client worldwide",
+          "btn-text": "Read More",
+          "special": false
+        },
         {
-            "id": 25,
-            "logo": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/logo_wqitvd.png",
-            "btn-text": "Signup",
-            "icon-toogle": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761961/samples/code-dot/nav-icon_wznybd.png",
-            "btn-direction": "#",
-            "nav": [
-                {
-                    "id": 26,
-                    "title": "home"
-                },
-                {
-                    "id": 27,
-                    "title": "services"
-                },
-                {
-                    "id": 28,
-                    "title": "pricing"
-                },
-                {
-                    "id": 29,
-                    "title": "clients"
-                },
-                {
-                    "id": 30,
-                    "title": "news"
-                },
-                {
-                    "id": 31,
-                    "title": "contact"
-                }
-            ]
-        }
-    ],
-    "footer": [
+          "id": 22,
+          "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/blog-card-2_ccbtdi.png",
+          "title": "Google Rankings",
+          "subtitle": "We've ranked number one on Google for multiple keywords. Read about our SEO strategies",
+          "btn-text": "Read More",
+          "special": true
+        },
         {
-            "id": 32,
-            "logo": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/logo_footer_llyjym.png",
-            "sub-footer": "A beautiful landing page template by Codefest.",
-            "footer-list": [
-                {
-                    "id": 32,
-                    "footer-title": "About",
-                    "footer-sub": "We like to do business at Codelander HQ to our clients' satisfaction."
-                },
-                {
-                    "id": 33,
-                    "footer-title": "Contact Us",
-                    "contact-list": [
-                        {
-                            "id": 34,
-                            "name": "address",
-                            "info": "123 Business Centre <br/> London SW1A 1AA"
-                        },
-                        {
-                            "id": 35,
-                            "name": "phone",
-                            "info": "0123456789"
-                        },
-                        {
-                            "id": 36,
-                            "name": "mail",
-                            "info": "mail@domain.com"
-                        }
-                    ]
-                },
-                {
-                    "id": 37,
-                    "footer-title": "Socials",
-                    "social-list": [
-                        {
-                            "id": 38,
-                            "name": "facebook",
-                            "url": "https://fb.com/"
-                        },
-                        {
-                            "id": 39,
-                            "name": "youtube",
-                            "url": "https://www.youtube.com/"
-                        },
-                        {
-                            "id": 40,
-                            "name": "twitter",
-                            "url": "https://twitter.com/"
-                        },
-                        {
-                            "id": 41,
-                            "name": "github",
-                            "url": "https://github.com/"
-                        }
-                    ]
-                }
-            ]
+          "id": 23,
+          "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/blog-card-2_ccbtdi.png",
+          "title": "Communication",
+          "subtitle": "We've made our client support services easy to access",
+          "btn-text": "Read More",
+          "special": false
         }
-    ]
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "id": 24,
+      "thumb": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/contact-header-img_x5frtl.png",
+      "title": "Questions? \n Get in touch",
+      "subtitle": "Contact",
+      "excerpt": "We'll be happy to help answer any of your questions. Send us an email and we'll get back to you shortly.",
+      "btn-text": "Send an Email",
+      "emain-receiver": "name@domain.com"
+    }
+  ],
+  "navbar": [
+    {
+      "id": 25,
+      "logo": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/logo_wqitvd.png",
+      "btn-text": "Signup",
+      "icon-toogle": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761961/samples/code-dot/nav-icon_wznybd.png",
+      "btn-direction": "#",
+      "nav": [
+        {
+          "id": 26,
+          "title": "home"
+        },
+        {
+          "id": 27,
+          "title": "services"
+        },
+        {
+          "id": 28,
+          "title": "pricing"
+        },
+        {
+          "id": 29,
+          "title": "clients"
+        },
+        {
+          "id": 30,
+          "title": "news"
+        },
+        {
+          "id": 31,
+          "title": "contact"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "id": 32,
+      "logo": "https://res.cloudinary.com/dhyime7g0/image/upload/v1640761960/samples/code-dot/logo_footer_llyjym.png",
+      "sub-footer": "A beautiful landing page template by Codefest.",
+      "footer-list": [
+        {
+          "id": 32,
+          "footer-title": "About",
+          "footer-sub": "We like to do business at Codelander HQ to our clients' satisfaction."
+        },
+        {
+          "id": 33,
+          "footer-title": "Contact Us",
+          "contact-list": [
+            {
+              "id": 34,
+              "name": "address",
+              "info": "123 Business Centre \n London SW1A 1AA"
+            },
+            {
+              "id": 35,
+              "name": "phone",
+              "info": "0123456789"
+            },
+            {
+              "id": 36,
+              "name": "mail",
+              "info": "mail@domain.com"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "footer-title": "Socials",
+          "social-list": [
+            {
+              "id": 38,
+              "name": "facebook",
+              "url": "https://fb.com/"
+            },
+            {
+              "id": 39,
+              "name": "youtube",
+              "url": "https://www.youtube.com/"
+            },
+            {
+              "id": 40,
+              "name": "twitter",
+              "url": "https://twitter.com/"
+            },
+            {
+              "id": 41,
+              "name": "github",
+              "url": "https://github.com/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
